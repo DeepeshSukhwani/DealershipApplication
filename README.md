@@ -25,5 +25,3 @@ A RESTful API for managing dealers and their vehicles, featuring dealer subscrip
 - **POST /api/dealers**: Create a new dealer (secured).
 - **POST /api/payment/initiate**: Initiate a payment for a dealer (secured).
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
